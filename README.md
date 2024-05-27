@@ -18,3 +18,6 @@
 - Boosting.
 - Lasy losowe.
 
+### Uczenie nienadzorowane
+
+### Inżynieria cech
