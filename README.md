@@ -19,5 +19,5 @@
 - Lasy losowe.
 
 ### Uczenie nienadzorowane
-
-### Inżynieria cech
+- Klasteryzacja (różne algorytmy)
+- Szacowanie gęstości rozkładu
