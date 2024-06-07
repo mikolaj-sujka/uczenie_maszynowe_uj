@@ -19,5 +19,12 @@
 - Lasy losowe.
 
 ### Uczenie nienadzorowane
-- Klasteryzacja (różne algorytmy)
-- Szacowanie gęstości rozkładu
+- Klasteryzacja (różne algorytmy).
+- Szacowanie gęstości rozkładu.
+
+# lab 4
+### Inżynieria cech
+- Redukcja wymiarowości: Metoda PCA.
+- Ekstrakcja cech: transformacje.
+- Selekcja cech: różne algorytmy (statystyczne, za pomocą modeli, RFE, ...).
+- Ważność cech (w wytrenowanym modelu).
