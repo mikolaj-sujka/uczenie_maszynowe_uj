@@ -28,3 +28,8 @@
 - Ekstrakcja cech: transformacje.
 - Selekcja cech: różne algorytmy (statystyczne, za pomocą modeli, RFE, ...).
 - Ważność cech (w wytrenowanym modelu).
+
+# Analiza - Red Wine Quality Dataset
+- Analiza wstępna
+- Budowanie modelu
+- Optymalizacja
